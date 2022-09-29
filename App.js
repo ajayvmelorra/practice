@@ -76,7 +76,7 @@ const App: () => Node = () => {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Step One">
-            Edit <Text style={styles.highlight}>App.js</Text> my new changes 2nd
+            Edit <Text style={styles.highlight}>App.js</Text> my new changes 1st
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
@@ -85,7 +85,7 @@ const App: () => Node = () => {
             <DebugInstructions />
           </Section>
           <Section title="Learn More">
-            Read the docs to discover what to do next:
+           new 1st branch changes
           </Section>
           <LearnMoreLinks />
         </View>
